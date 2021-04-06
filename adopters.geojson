@@ -9,6 +9,7 @@
     {"type": "Feature", "properties": {"institution": "Loganite"}, "geometry": {"type": "Point", "coordinates": [-106.65606460420399, 52.12475934641253]}},
     {"type": "Feature", "properties": {"institution": "TU Graz"}, "geometry": {"type": "Point", "coordinates": [15.450251, 47.063825]}},
     {"type": "Feature", "properties": {"institution": "UCT"}, "geometry": {"type": "Point", "coordinates": [18.4612,-33.9577]}},
+    {"type": "Feature", "properties": {"institution": "Universität Stuttgart"}, "geometry": {"type": "Point", "coordinates": [9.1010851, 48.7440614]}},
     {"type": "Feature", "properties": {"institution": "Universität Konstanz"}, "geometry": {"type": "Point", "coordinates": [9.186889251135542, 47.68950512765764]}}
   ]
 }
