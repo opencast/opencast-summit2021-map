@@ -13,8 +13,8 @@
     {"type": "Feature", "properties": {"institution": "Universität Stuttgart"}, "geometry": {"type": "Point", "coordinates": [9.1010851, 48.7440614]}},
     {"type": "Feature", "properties": {"institution": "Universität Konstanz"}, "geometry": {"type": "Point", "coordinates": [9.186889251135542, 47.68950512765764]}},
     {"type": "Feature", "properties": {"institution": "University of Manchester"}, "geometry": {"type": "Point", "coordinates": [-2.233543971787578, 53.46703424465958]}},
-    {"type": "Feature", "properties": {"institution": "Leibniz Supercomputing Centre"}, "geometry": {"type": "Point", "coordinates": [11.666854469221109, 48.2619083]}}
-    {"type": "Feature", "properties": {"institution": "Universität zu Köln"}, "geometry": {"type": "Point", "coordinates": [6.924034914292081, 50.92711905]}}
-
+    {"type": "Feature", "properties": {"institution": "Leibniz Supercomputing Centre"}, "geometry": {"type": "Point", "coordinates": [11.666854469221109, 48.2619083]}},
+    {"type": "Feature", "properties": {"institution": "Universität zu Köln"}, "geometry": {"type": "Point", "coordinates": [6.924034914292081, 50.92711905]}},
+    {"type": "Feature", "properties": {"institution": "Karlsruhe Institute of Technology"}, "geometry": {"type": "Point", "coordinates": [8.416400675314813, 49.01108940982856]}}
   ]
 }
